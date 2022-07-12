@@ -5,7 +5,7 @@ Language Used : Python
 Modules Used :
 
   Requests : For getting the data from web.
-  Regex , Json - For data processing
+  Regex : Json - For data processing
 
 Functions :
   
